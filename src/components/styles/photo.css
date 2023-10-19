@@ -1,3 +1,7 @@
 img{
     border-radius: 50px;
+    border-color: white;
+    position: absolute;
+    top: -40px;
+    left: 135px;
 }

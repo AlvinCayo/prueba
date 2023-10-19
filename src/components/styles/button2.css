@@ -1,6 +1,9 @@
 .button2{
     border: 12px;
-    width: 51PX;
-    height: 48PX;
+    width: 55PX;
+    height: 48px;
     background-color: #046BA533;
+    position: absolute;
+    left: 277px;
+    top: 160px;
 }

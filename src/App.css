@@ -5,3 +5,14 @@
   text-align: center;
 }
 
+.card{
+  background-color: white;
+  width: 353px;
+  height: 227px;
+  border-radius: 30px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}

@@ -6,4 +6,6 @@
     color: white;
     font-size: 18px;
     font-family: Roboto;
+    position: relative;
+    left: 25px;
 }

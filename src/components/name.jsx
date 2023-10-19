@@ -4,7 +4,7 @@ import './styles/name.css'
 export const Name = () => {
   return (
     <div>
-        <h2 className='name'>Diana</h2>
+        <h2 className='name'>Dianna</h2>
     </div>
   )
 }
